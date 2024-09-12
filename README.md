@@ -1,9 +1,5 @@
 # Levon-Technologies
 
-## Project Overview
-
-This project is a full-stack web application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The primary focus of the application is to provide a secure user authentication system using JSON Web Tokens (JWT) and manage projects and episodes.
-
 ## Tech Stack
 
 - **Backend:** Node.js, Express.js
